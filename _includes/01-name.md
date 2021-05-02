@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Amber Whited, Web Developer in training.
